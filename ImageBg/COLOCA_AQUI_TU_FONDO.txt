@@ -1,0 +1,12 @@
+Coloca aquí la imagen de fondo de la pantalla de inicio con el nombre exacto:
+
+    ImageBg.jpg
+
+Ruta final esperada por el código:
+
+    ImageBg/ImageBg.jpg
+
+Definida en js/app.js dentro de CONFIG.BG_IMAGE_PATH.
+
+Mientras este archivo no exista, la pantalla de inicio se mostrará
+con fondo negro (no se rompe la página).

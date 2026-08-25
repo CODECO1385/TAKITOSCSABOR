@@ -1,0 +1,12 @@
+Coloca aquí la fotografía del platillo con el nombre exacto:
+
+    platillo.jpg
+
+Ruta final esperada por el código:
+
+    images/platillo.jpg
+
+Definida en js/app.js dentro de CONFIG.DISH_IMAGE_PATH.
+
+Mientras este archivo no exista, la tarjeta del menú mostrará
+automáticamente un placeholder (no se rompe la página).

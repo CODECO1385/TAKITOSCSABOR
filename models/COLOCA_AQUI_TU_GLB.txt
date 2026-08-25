@@ -1,0 +1,16 @@
+Coloca aquí tu archivo del modelo 3D con el nombre exacto:
+
+    platillo.glb
+
+Ruta final esperada por el código:
+
+    models/platillo.glb
+
+Esta ruta está definida en js/app.js dentro de la variable:
+
+    CONFIG.MODEL_PATH
+
+Si necesitas usar otro nombre de archivo, solo cambia esa variable.
+
+Puedes borrar este archivo .txt una vez que hayas agregado tu platillo.glb
+(no es obligatorio, no interfiere con el funcionamiento del sitio).
