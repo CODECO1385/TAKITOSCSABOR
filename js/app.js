@@ -13,7 +13,7 @@
   // ------------------------------------------------------------
   var CONFIG = {
     // Ruta del modelo 3D del platillo. Colócalo en esta ubicación.
-    MODEL_PATH: "models/platillo.glb",
+    MODEL_PATH: "models/3D.glb",
 
     // Escala del modelo. Déjala en "1 1 1" si tu GLB ya viene
     // modelado en metros a tamaño real (recomendado).
